@@ -1,0 +1,17 @@
+{
+  "name": "chatapp",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Utku <30628670+U-Code-U@users.noreply.github.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "chat",
+    "nodejs"
+  ],
+  "homepage": "https://github.com/U85U/Chat-App",
+  "dependencies": {
+    "angular": "^1.8.0"
+  }
+}
